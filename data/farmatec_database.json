@@ -2443,7 +2443,19 @@
       "source": "CommissionReportFranchise_20260922151238.xlsx"
     }
   },
-  "payments": {},
+  "payments": {
+    "f013ba9f4893004822d57a8fdbd80f7af45f61eb276e921838cf85a8126c3686": {
+      "file": "comprovante_Azul_Cargo_22_09.pdf",
+      "value": 18000.0,
+      "date": "22/09/2026",
+      "time": "08:17:53",
+      "transaction_id": "E60701190202609221116DY550C86OMM",
+      "authentication": "F3DE571E9A0CE8CC267DCCB58CCDDAEA56E44FF0",
+      "payment_type": "PIX - pagamento instantâneo",
+      "control": "000181916705072",
+      "created_at": "2026-09-22T16:20:56"
+    }
+  },
   "nf_map": {
     "080423": {
       "nf": "080423",
