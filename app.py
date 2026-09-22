@@ -287,15 +287,55 @@ def load_db():
         return empty_db()
 
 def save_db(db):
+    """Salva localmente e no GitHub, repetindo a gravação se houver conflito 409 de SHA."""
     raw=json.dumps(db,ensure_ascii=False,indent=2)
-    with open(DB_FILE,"w",encoding="utf-8") as f: f.write(raw)
-    if GH_TOKEN and GH_REPO:
-        url=f"https://api.github.com/repos/{GH_REPO}/contents/{GH_DB_PATH}"
-        _,sha=_remote_get()
-        payload={"message":"Atualiza base FARMATEC","content":base64.b64encode(raw.encode()).decode(),"branch":GH_BRANCH}
-        if sha: payload["sha"]=sha
-        r=requests.put(url,headers=_github_headers(),json=payload,timeout=25)
-        r.raise_for_status()
+
+    with open(DB_FILE,"w",encoding="utf-8") as f:
+        f.write(raw)
+
+    if not (GH_TOKEN and GH_REPO):
+        return
+
+    url=f"https://api.github.com/repos/{GH_REPO}/contents/{GH_DB_PATH}"
+    last_error=None
+
+    # O GitHub exige o SHA mais recente para atualizar um arquivo existente.
+    # Se ocorrer 409, buscamos novamente o SHA atual e repetimos o PUT.
+    for attempt in range(4):
+        try:
+            _,sha=_remote_get()
+            payload={
+                "message":"Atualiza base FARMATEC",
+                "content":base64.b64encode(raw.encode("utf-8")).decode("ascii"),
+                "branch":GH_BRANCH
+            }
+            if sha:
+                payload["sha"]=sha
+
+            r=requests.put(url,headers=_github_headers(),json=payload,timeout=25)
+
+            if r.status_code in (200,201):
+                return
+
+            if r.status_code==409:
+                last_error=RuntimeError("Conflito temporário 409 ao salvar no GitHub.")
+                continue
+
+            r.raise_for_status()
+
+        except requests.HTTPError as e:
+            last_error=e
+            if getattr(e.response,"status_code",None)==409:
+                continue
+            raise
+        except Exception as e:
+            last_error=e
+            if attempt < 3:
+                continue
+            raise
+
+    if last_error:
+        raise last_error
 
 def digits(v):
     if v is None or (isinstance(v,float) and pd.isna(v)): return ""
