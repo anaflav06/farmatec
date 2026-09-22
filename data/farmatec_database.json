@@ -625,7 +625,7 @@
       "recipient_name": "JONAS DOS REIS NOGUEIRA",
       "total": 84.71,
       "sla": "7",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-01T23:59:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -639,7 +639,7 @@
       "recipient_name": "EDUARDA RODRIGUES DA SILVA NUNES",
       "total": 89.54,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T17:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -653,7 +653,7 @@
       "recipient_name": "CLAUDINEI DOS SANTOS BOAVENTURA",
       "total": 136.56,
       "sla": "13",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-09T17:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -667,7 +667,7 @@
       "recipient_name": "FERNANDA JOMERTZ",
       "total": 87.38,
       "sla": "8",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-02T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1129,7 +1129,7 @@
       "recipient_name": "MARCOS MARTINS FISIOTERAPIA REGENERATIVA LTDA",
       "total": 58.95,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1605,7 +1605,7 @@
       "recipient_name": "DEYSE CLEMENTE DE SANTANA",
       "total": 113.48,
       "sla": "9",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-05T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1619,7 +1619,7 @@
       "recipient_name": "ANA TEREZA GARCIA ARAUJO LIRA",
       "total": 162.58,
       "sla": "13",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-09T17:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1633,7 +1633,7 @@
       "recipient_name": "INFINITA ASSISTENCIA MEDICA E HOSPITALAR LTDA",
       "total": 67.25,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1647,7 +1647,7 @@
       "recipient_name": "CLINICA LUMA SERVICOS DE ESTETICA E SAUDE LTDA",
       "total": 195.97,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1703,7 +1703,7 @@
       "recipient_name": "JAQUELINE FARIAS QUEIROZ",
       "total": 158.17,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57702315170": {
       "awb": "57702315170",
@@ -1714,7 +1714,7 @@
       "recipient_name": "CRISTINA CAPELLARI",
       "total": 107.58,
       "sla": "7",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57702315524": {
       "awb": "57702315524",
@@ -1725,7 +1725,7 @@
       "recipient_name": "F D GESTAO MEDICA LTDA",
       "total": 119.41,
       "sla": "6",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57702315838": {
       "awb": "57702315838",
@@ -1736,7 +1736,7 @@
       "recipient_name": "ADRIANA HEUSI",
       "total": 58.14,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57702317089": {
       "awb": "57702317089",
@@ -1747,7 +1747,7 @@
       "recipient_name": "CAMILA PROVENCANO MONTELLA",
       "total": 83.49,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57702325205": {
       "awb": "57702325205",
@@ -1758,7 +1758,7 @@
       "recipient_name": "MARLY MOREIRA GONCALVES",
       "total": 81.41,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57782461050": {
       "awb": "57782461050",
@@ -1825,7 +1825,7 @@
       "recipient_name": "JANAINA PAIVA FORTALEZA",
       "total": 110.51,
       "sla": "8",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-02T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1839,7 +1839,7 @@
       "recipient_name": "DR VICTORIA COSTA BORGES ESTETICA A LTDA",
       "total": 54.97,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T18:30:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1853,7 +1853,7 @@
       "recipient_name": "EPM SERVICOS MEDICOS EIRELI",
       "total": 63.79,
       "sla": "6",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T23:59:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1867,7 +1867,7 @@
       "recipient_name": "TISSIANE LOURENCO",
       "total": 58.66,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T23:59:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1895,7 +1895,7 @@
       "recipient_name": "HELIO OLIVEIRA DA COSTA",
       "total": 91.6,
       "sla": "8",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-02T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1909,7 +1909,7 @@
       "recipient_name": "ALINE KELY MARTINS",
       "total": 58.17,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T19:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1923,7 +1923,7 @@
       "recipient_name": "ALESSANDRA FELIX LOPES PUTENCIO",
       "total": 69.98,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T17:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1937,7 +1937,7 @@
       "recipient_name": "LIDIANE CARVALHO CORREA",
       "total": 116.4,
       "sla": "10",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-06T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1951,7 +1951,7 @@
       "recipient_name": "L C ANDRADE DE ARAUJO LTDA",
       "total": 103.88,
       "sla": "6",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T23:59:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1965,7 +1965,7 @@
       "recipient_name": "QUALIVIDA CLINICA MEDICA LTDA",
       "total": 139.75,
       "sla": "13",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-09T17:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1979,7 +1979,7 @@
       "recipient_name": "JOSENILDO BATISTA DA SILVA JUNIOR",
       "total": 72.83,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T17:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -1993,7 +1993,7 @@
       "recipient_name": "ELMA DE SOUSA FONTOURA",
       "total": 112.15,
       "sla": "7",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57702301739": {
       "awb": "57702301739",
@@ -2004,7 +2004,7 @@
       "recipient_name": "GAMA DIAGNOSTICO POR IMAGEM LTDA",
       "total": 82.66,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T19:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2018,7 +2018,7 @@
       "recipient_name": "ANTONIA PAULA R BARBOSA",
       "total": 68.29,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T17:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2032,7 +2032,7 @@
       "recipient_name": "DN MASTER CLINICA LTDA",
       "total": 70.91,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2046,7 +2046,7 @@
       "recipient_name": "THAIS RODRIGUES MAGALHAES",
       "total": 57.85,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T19:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2060,7 +2060,7 @@
       "recipient_name": "TATIANA HORANI REGINALDO",
       "total": 71.55,
       "sla": "6",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2116,7 +2116,7 @@
       "recipient_name": "CLINICA MEDICA ANGIOPLAST LTDA",
       "total": 105.24,
       "sla": "6",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T23:59:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2130,7 +2130,7 @@
       "recipient_name": "KEYLA LAYSE VENANCIO PORTELA",
       "total": 59.19,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T17:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2144,7 +2144,7 @@
       "recipient_name": "ALESSANDRA TOMAZ DE SA",
       "total": 47.72,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2158,7 +2158,7 @@
       "recipient_name": "MARCOS VINICIUS S SILVA",
       "total": 96.17,
       "sla": "6",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57702308054": {
       "awb": "57702308054",
@@ -2169,7 +2169,7 @@
       "recipient_name": "CARDOSO OLIVEIRA SERVICOS MEDICOS LTDA",
       "total": 89.4,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2225,7 +2225,7 @@
       "recipient_name": "JOSE TALIBIO TAVARES GERIN",
       "total": 101.49,
       "sla": "8",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-02T19:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2239,7 +2239,7 @@
       "recipient_name": "INSTITUTO SAUDE NOTAVEL LTDA",
       "total": 82.15,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T18:30:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2253,7 +2253,7 @@
       "recipient_name": "AURICELIO LIMA DE SOUZA",
       "total": 58.84,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T20:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2267,7 +2267,7 @@
       "recipient_name": "ANGIOCLINIC SERVICOS DE SAUDE LTDA",
       "total": 57.59,
       "sla": "5",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-29T20:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2281,7 +2281,7 @@
       "recipient_name": "C MUCKE CEMIM SERVICOS DE SAUDE",
       "total": 57.99,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T23:59:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2295,7 +2295,7 @@
       "recipient_name": "FELIPE FERREIRA BERNARDI",
       "total": 64.43,
       "sla": "7",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-01T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2799,7 +2799,7 @@
       "recipient_name": "MARIA CLARA MALUTA VIEIRA",
       "total": 93.57,
       "sla": "7",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-01T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2813,7 +2813,7 @@
       "recipient_name": "JOSE LUIZ CATALDO",
       "total": 80.19,
       "sla": "7",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-01T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2855,7 +2855,7 @@
       "recipient_name": "CAMILLA SILVA FREITAS DE OLIVEIRA",
       "total": 58.82,
       "sla": "6",
-      "source": "CommissionReportFranchise_20260922151238.xlsx"
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     },
     "57702312348": {
       "awb": "57702312348",
@@ -2866,7 +2866,7 @@
       "recipient_name": "MARA OLIVEIRA LIMA",
       "total": 118.01,
       "sla": "8",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-02T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2880,7 +2880,7 @@
       "recipient_name": "MARIA CLARA SILVEIRA",
       "total": 50.11,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T18:30:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2894,7 +2894,7 @@
       "recipient_name": "HENKEL INSPIRATION CENTER JUNDIAI",
       "total": 110.39,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-28T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2964,7 +2964,7 @@
       "recipient_name": "APARECIDO DA SILVA",
       "total": 56.83,
       "sla": "7",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-01T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -2978,7 +2978,7 @@
       "recipient_name": "FERNANDO HENRIQUE DE ALMEIDA",
       "total": 97.92,
       "sla": "8",
-      "source": "CommissionReportFranchise_20260922151238.xlsx",
+      "source": "CommissionReportFranchise_20260922210647.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-10-02T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
@@ -3080,6 +3080,479 @@
       "status": "Saído para entrega",
       "delivery_forecast": "2026-09-23T18:00:00",
       "status_source": "rptAWBStatus_20260922142344.xlsx"
+    },
+    "57702361706": {
+      "awb": "57702361706",
+      "date": "2026-09-22T15:20:17.597000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "65353652000155",
+      "recipient_name": "SA BEUTCLINIC LTDA",
+      "total": 57.8,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702365850": {
+      "awb": "57702365850",
+      "date": "2026-09-22T15:41:09.943000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "57764937000150",
+      "recipient_name": "PAULA BRISOLLA FARMACEUTICA EAESTETA LTDA",
+      "total": 60.66,
+      "sla": "7",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702367148": {
+      "awb": "57702367148",
+      "date": "2026-09-22T15:25:20.190000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "25540299892",
+      "recipient_name": "DANIEL GUSTAVO MIQUELIN",
+      "total": 62.23,
+      "sla": "7",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702368606": {
+      "awb": "57702368606",
+      "date": "2026-09-22T15:14:56.880000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "42017963100",
+      "recipient_name": "HIDIAMARA DE CARVALHO GOMES",
+      "total": 93.85,
+      "sla": "8",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702377762": {
+      "awb": "57702377762",
+      "date": "2026-09-22T16:50:29.080000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "11522436677",
+      "recipient_name": "BARBARA MARTINS FRAGA DE ANDRADE",
+      "total": 113.8,
+      "sla": "8",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702378401": {
+      "awb": "57702378401",
+      "date": "2026-09-22T17:35:38.727000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "90948700610",
+      "recipient_name": "BERENICE DA SILVA MACHADO DOS SANTOS",
+      "total": 93.01,
+      "sla": "7",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702385639": {
+      "awb": "57702385639",
+      "date": "2026-09-22T17:20:10.923000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "17396540720",
+      "recipient_name": "PEDRO HENRIQUE DUTRA DOS SANTOS",
+      "total": 58.27,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702386426": {
+      "awb": "57702386426",
+      "date": "2026-09-22T17:13:18.170000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "7357797000128",
+      "recipient_name": "CLINIPREV CLINICA MEDICA LTDA",
+      "total": 64.02,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702198967": {
+      "awb": "57702198967",
+      "date": "2026-09-22T14:25:41.183000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "1401136000176",
+      "recipient_name": "SEMO SERVICOS MEDICOS HOSPITALARES",
+      "total": 48.3,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702315635": {
+      "awb": "57702315635",
+      "date": "2026-09-22T14:51:28.803000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "24089317000104",
+      "recipient_name": "HATOUM SERVICOS MEDICOS SIMPLES",
+      "total": 58.09,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702315851": {
+      "awb": "57702315851",
+      "date": "2026-09-22T15:32:46.193000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "205384137",
+      "recipient_name": "MAGDIEL SOUZA RODRIGUES",
+      "total": 61.47,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702350754": {
+      "awb": "57702350754",
+      "date": "2026-09-22T14:41:26.690000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "16302671000147",
+      "recipient_name": "CLINICA DE ANG E DERM EUTIMIO E ELZA BRASIL LTDA",
+      "total": 64.67,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702351033": {
+      "awb": "57702351033",
+      "date": "2026-09-22T16:00:29.140000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "783570201",
+      "recipient_name": "STEFANY CHENIA DA SILVA BARTNIK",
+      "total": 63.94,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702358119": {
+      "awb": "57702358119",
+      "date": "2026-09-22T15:06:30.180000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "24826212836",
+      "recipient_name": "VINICIUS ALMEIDA FERREIRA",
+      "total": 57.12,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702361604": {
+      "awb": "57702361604",
+      "date": "2026-09-22T15:25:51.803000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "27196176871",
+      "recipient_name": "VANESSA HELENA LINO S DE ALMEIDA",
+      "total": 57.69,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702368772": {
+      "awb": "57702368772",
+      "date": "2026-09-22T15:50:04.790000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "4828715479",
+      "recipient_name": "CHARLENE GLAUCIA NUNES DE ALMEIDA",
+      "total": 72.29,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702369770": {
+      "awb": "57702369770",
+      "date": "2026-09-22T15:31:57.467000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "8206559612",
+      "recipient_name": "JESSICA FREITAS SILVA BARBOSA",
+      "total": 95.68,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702375397": {
+      "awb": "57702375397",
+      "date": "2026-09-22T15:44:44.347000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "6248477647",
+      "recipient_name": "CAROLINA GARCIA DOS SANTOS",
+      "total": 62.8,
+      "sla": "4",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702375534": {
+      "awb": "57702375534",
+      "date": "2026-09-22T15:49:46.083000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "47717173000199",
+      "recipient_name": "VIEIRA E BENEDITO SERVICOS MEDICOS LTDA",
+      "total": 110.26,
+      "sla": "8",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702375819": {
+      "awb": "57702375819",
+      "date": "2026-09-22T16:17:27.340000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "1682566145",
+      "recipient_name": "PAULINE MIKAELE SOARES LAMOUNIER",
+      "total": 74.16,
+      "sla": "4",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702387189": {
+      "awb": "57702387189",
+      "date": "2026-09-22T17:00:32.033000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "87479761287",
+      "recipient_name": "KAMILA KASSIA MARQUES PEREIRA",
+      "total": 107.3,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702389000": {
+      "awb": "57702389000",
+      "date": "2026-09-22T17:04:44.527000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "44810186000110",
+      "recipient_name": "OZOGREIN LTDA",
+      "total": 68.4,
+      "sla": "7",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702389215": {
+      "awb": "57702389215",
+      "date": "2026-09-22T16:54:27.400000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "6808452830",
+      "recipient_name": "PAULO CEZAR CHIOLI",
+      "total": 58.11,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702389673": {
+      "awb": "57702389673",
+      "date": "2026-09-22T17:09:10.197000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "12442632730",
+      "recipient_name": "MATHEUS VALLE MARON SUHETT",
+      "total": 57.95,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702390864": {
+      "awb": "57702390864",
+      "date": "2026-09-22T17:52:58.777000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "2405092263",
+      "recipient_name": "SILVIA IZABELLY A PEREIRA",
+      "total": 84.18,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702309629": {
+      "awb": "57702309629",
+      "date": "2026-09-22T14:19:08.367000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "48802800000152",
+      "recipient_name": "FISIOTERAPIA E PRATICAS I COMPLEMENTARES LTDA",
+      "total": 59.02,
+      "sla": "7",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702311154": {
+      "awb": "57702311154",
+      "date": "2026-09-22T17:44:55.130000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "73618470134",
+      "recipient_name": "BRUNO CABRAL COMPARIN",
+      "total": 80.09,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702316864": {
+      "awb": "57702316864",
+      "date": "2026-09-22T12:25:30.497000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "51819336000111",
+      "recipient_name": "POLYANA TAVARES DE SOUZA TOBAL",
+      "total": 125.44,
+      "sla": "9",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702317085": {
+      "awb": "57702317085",
+      "date": "2026-09-22T13:28:52.723000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "67927089000107",
+      "recipient_name": "JUNIOR TEIXEIRA DE BRITO",
+      "total": 106.62,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702319874": {
+      "awb": "57702319874",
+      "date": "2026-09-22T14:14:09.883000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "8275191000106",
+      "recipient_name": "NOT NUCLEO DE ORTOPEDIA E TRAUMATOLOGIA LTDA",
+      "total": 67.85,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702324386": {
+      "awb": "57702324386",
+      "date": "2026-09-22T12:55:44.697000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "3219238203",
+      "recipient_name": "JULIANA POMAROLI GOULART",
+      "total": 256.22,
+      "sla": "12",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702324970": {
+      "awb": "57702324970",
+      "date": "2026-09-22T12:49:36.857000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "14745922795",
+      "recipient_name": "RAFAEL ASSIS SALDANHA",
+      "total": 71.35,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702325884": {
+      "awb": "57702325884",
+      "date": "2026-09-22T13:00:28.087000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "5212712000198",
+      "recipient_name": "EXLINE CLINICA INTEGRADA LTDA",
+      "total": 71.17,
+      "sla": "4",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702328338": {
+      "awb": "57702328338",
+      "date": "2026-09-22T12:45:47.320000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "25026985882",
+      "recipient_name": "FABIO VINICIUS DUARTE",
+      "total": 67.44,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702329126": {
+      "awb": "57702329126",
+      "date": "2026-09-22T12:41:58.957000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "9533859000211",
+      "recipient_name": "CLINICA MEDICA JUDA LTDA",
+      "total": 77.4,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702329161": {
+      "awb": "57702329161",
+      "date": "2026-09-22T12:34:08.940000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "7797714606",
+      "recipient_name": "NEILLA P CASTRO",
+      "total": 65.91,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702329200": {
+      "awb": "57702329200",
+      "date": "2026-09-22T12:30:18.187000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "35403581880",
+      "recipient_name": "JULIANA SANTOS AMARAL",
+      "total": 66.02,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702329214": {
+      "awb": "57702329214",
+      "date": "2026-09-22T12:38:10.703000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "5733637145",
+      "recipient_name": "FABIANA ALENCAR LUZ",
+      "total": 106.87,
+      "sla": "7",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702314412": {
+      "awb": "57702314412",
+      "date": "2026-09-22T14:35:19.560000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "78021081520",
+      "recipient_name": "ADELAIDE DA SILVA COSTA",
+      "total": 70.91,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702301403": {
+      "awb": "57702301403",
+      "date": "2026-09-22T15:54:25.377000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "3189653640",
+      "recipient_name": "TATIANA NUNES OLIVEIRA DE ASSIS",
+      "total": 52.34,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702301823": {
+      "awb": "57702301823",
+      "date": "2026-09-22T15:39:39.567000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "82871183015",
+      "recipient_name": "GABRIELA CHRISTINA KRONHARDT",
+      "total": 64.36,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702302677": {
+      "awb": "57702302677",
+      "date": "2026-09-22T14:46:11.743000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "35993187867",
+      "recipient_name": "TIAGO HENRIQUE DE LIMA MOCELLIN",
+      "total": 81.47,
+      "sla": "5",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
+    },
+    "57702308808": {
+      "awb": "57702308808",
+      "date": "2026-09-22T15:46:04.097000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "26874460846",
+      "recipient_name": "CESAR RICARDO SOARES MEDEIROS",
+      "total": 57.43,
+      "sla": "6",
+      "source": "CommissionReportFranchise_20260922210647.xlsx"
     }
   },
   "payments": {
@@ -6720,6 +7193,14 @@
       "new": 213,
       "updated": 0,
       "new_value": 0
+    },
+    {
+      "file": "CommissionReportFranchise_20260922210647.xlsx",
+      "at": "2026-09-22T21:16:13",
+      "found": 94,
+      "new": 43,
+      "updated": 51,
+      "new_value": 3353.9599999999996
     }
   ],
   "settings": {
