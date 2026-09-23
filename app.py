@@ -756,6 +756,21 @@ elif page=="Comprovantes":
             data.append({"Data":p.get("date",""),"Hora":p.get("time",""),"ID transação":p.get("transaction_id",""),"Arquivo":p.get("file",""),"Valor":p["value"],"Saldo do crédito":rem.get(k,p["value"])})
         st.dataframe(pd.DataFrame(data),use_container_width=True,hide_index=True,column_config={"Valor":st.column_config.NumberColumn(format="R$ %.2f"),"Saldo do crédito":st.column_config.NumberColumn(format="R$ %.2f")})
 
+        st.markdown("### 🗑️ Excluir comprovante")
+        st.caption("Remove somente o comprovante. AWBs, NFs e embarques permanecem cadastrados; o saldo é recalculado automaticamente.")
+        ordered_payments=sorted(db["payments"].items(),key=lambda x:payment_dt(x[1]))
+        payment_labels={k:f'{p.get("date","")} {p.get("time","")} — {money(p.get("value",0))} — {p.get("file","")}' for k,p in ordered_payments}
+        delete_pid=st.selectbox("Selecione o comprovante que deseja excluir",[k for k,_ in ordered_payments],format_func=lambda k:payment_labels[k],key="delete_payment_select")
+        confirm_delete=st.checkbox("Confirmo que desejo excluir este comprovante.",key="confirm_delete_payment")
+        if st.button("🗑️ Excluir comprovante selecionado",disabled=not confirm_delete,key="delete_payment_button"):
+            deleted=db["payments"].pop(delete_pid,None)
+            if deleted:
+                save_db(db)
+                st.session_state["payment_msg"]=f'✅ Comprovante {deleted.get("file","")} de {money(deleted.get("value",0))} excluído. Saldo recalculado.'
+                st.rerun()
+            else:
+                st.error("Não foi possível localizar o comprovante selecionado.")
+
 elif page=="NF × AWB":
     st.subheader("🧾 Base NF × AWB")
     pending=[]
