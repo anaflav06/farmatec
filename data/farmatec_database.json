@@ -6260,13 +6260,13 @@
     },
     "80471": {
       "nf": "80471",
-      "awb": "2299994",
-      "source": "MANUAL"
+      "awb": "57702299994",
+      "source": "PENDÊNCIA MANUAL"
     },
     "80098": {
       "nf": "80098",
-      "awb": "2308274",
-      "source": "MANUAL"
+      "awb": "57702308274",
+      "source": "PENDÊNCIA MANUAL"
     },
     "80014": {
       "nf": "80014",
@@ -6905,18 +6905,18 @@
     },
     "80093": {
       "nf": "80093",
-      "awb": "2299563",
-      "source": "MANUAL"
+      "awb": "57702299563",
+      "source": "PENDÊNCIA MANUAL"
     },
     "80295": {
       "nf": "80295",
-      "awb": "2351033",
-      "source": "MANUAL"
+      "awb": "57702351033",
+      "source": "PENDÊNCIA MANUAL"
     },
     "80201": {
       "nf": "80201",
-      "awb": "2375397",
-      "source": "MANUAL"
+      "awb": "57702375397",
+      "source": "PENDÊNCIA MANUAL"
     }
   },
   "status": {
