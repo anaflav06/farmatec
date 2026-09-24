@@ -5297,6 +5297,61 @@
       "total": 79.64,
       "sla": "7",
       "source": "CommissionReportFranchise_20260924191359.xlsx"
+    },
+    "57702384143": {
+      "awb": "57702384143",
+      "date": "2026-09-24T12:48:38.643000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "62873134000174",
+      "recipient_name": "PREVENCAO E PROSPERO CUIDADOS EM SAUDE LTDA",
+      "total": 69.6,
+      "sla": "4",
+      "source": "CommissionReportFranchise_20260924191543.xlsx"
+    },
+    "57702453019": {
+      "awb": "57702453019",
+      "date": "2026-09-24T10:07:59.097000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "20584761821",
+      "recipient_name": "ADRIANA MARIA COSTA",
+      "total": 58.44,
+      "sla": "4",
+      "source": "CommissionReportFranchise_20260924191543.xlsx"
+    },
+    "57725729465": {
+      "awb": "57725729465",
+      "date": "2026-09-23T15:02:11.510000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "57988951653",
+      "recipient_name": "TEREZINHA DA SILVA SACRAMENTO CAETANO",
+      "total": 56.72,
+      "sla": "4",
+      "source": "CommissionReportFranchise_20260924191543.xlsx"
+    },
+    "57702643308": {
+      "awb": "57702643308",
+      "date": "2026-09-24T12:10:17.083000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "33897568000106",
+      "recipient_name": "ANGIOPREV SERVICOS MEDICOS LTDA",
+      "total": 62.11,
+      "sla": "4",
+      "source": "CommissionReportFranchise_20260924191543.xlsx"
+    },
+    "57702649836": {
+      "awb": "57702649836",
+      "date": "2026-09-24T14:15:07.493000",
+      "sender_cnpj": "6177615000174",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_doc": "54336059000184",
+      "recipient_name": "CLINICA DE CIRURGIA VASCULAR ENDOVASCULAR E UROLO",
+      "total": 57.47,
+      "sla": "4",
+      "source": "CommissionReportFranchise_20260924191543.xlsx"
     }
   },
   "payments": {
@@ -11437,6 +11492,14 @@
       "new": 32,
       "updated": 30,
       "new_value": 2606.7599999999998
+    },
+    {
+      "file": "CommissionReportFranchise_20260924191543.xlsx",
+      "at": "2026-09-24T19:16:10",
+      "found": 5,
+      "new": 5,
+      "updated": 0,
+      "new_value": 304.34000000000003
     }
   ],
   "settings": {
