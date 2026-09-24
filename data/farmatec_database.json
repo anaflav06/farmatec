@@ -5307,7 +5307,10 @@
       "recipient_name": "PREVENCAO E PROSPERO CUIDADOS EM SAUDE LTDA",
       "total": 69.6,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx"
+      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "status": "Pendente Embarque",
+      "delivery_forecast": "2026-09-30T18:00:00",
+      "status_source": "rptAWBStatus_20260924191700.xlsx"
     },
     "57702453019": {
       "awb": "57702453019",
@@ -5318,7 +5321,10 @@
       "recipient_name": "ADRIANA MARIA COSTA",
       "total": 58.44,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx"
+      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "status": "Pendente Embarque",
+      "delivery_forecast": "2026-09-30T19:00:00",
+      "status_source": "rptAWBStatus_20260924191700.xlsx"
     },
     "57725729465": {
       "awb": "57725729465",
@@ -5329,7 +5335,10 @@
       "recipient_name": "TEREZINHA DA SILVA SACRAMENTO CAETANO",
       "total": 56.72,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx"
+      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "status": "Pendente Entrega",
+      "delivery_forecast": "2026-09-29T23:00:00",
+      "status_source": "rptAWBStatus_20260924191700.xlsx"
     },
     "57702643308": {
       "awb": "57702643308",
@@ -5340,7 +5349,10 @@
       "recipient_name": "ANGIOPREV SERVICOS MEDICOS LTDA",
       "total": 62.11,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx"
+      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "status": "Pendente Embarque",
+      "delivery_forecast": "2026-09-30T19:00:00",
+      "status_source": "rptAWBStatus_20260924191700.xlsx"
     },
     "57702649836": {
       "awb": "57702649836",
@@ -5351,7 +5363,10 @@
       "recipient_name": "CLINICA DE CIRURGIA VASCULAR ENDOVASCULAR E UROLO",
       "total": 57.47,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx"
+      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "status": "Pendente Embarque",
+      "delivery_forecast": "2026-09-30T18:00:00",
+      "status_source": "rptAWBStatus_20260924191700.xlsx"
     }
   },
   "payments": {
@@ -11341,6 +11356,61 @@
       "recipient_name": "49312191000116-OZON ampamp TERAPIA CLI DE E A E T INTEGRATIVAS LTDA",
       "source": "rptAWBStatus_20260924150821.xlsx",
       "imported_at": "2026-09-24T15:22:22"
+    },
+    "02384143": {
+      "awb": "57702384143",
+      "status": "Pendente Embarque",
+      "sla_date": "2026-09-30T18:00:00",
+      "updated_event": "2026-09-24T12:48:38.643000",
+      "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_name": "62873134000174-PREVENCAO E PROSPERO CUIDADOS EM SAUDE LTDA",
+      "source": "rptAWBStatus_20260924191700.xlsx",
+      "imported_at": "2026-09-24T19:17:56"
+    },
+    "02453019": {
+      "awb": "57702453019",
+      "status": "Pendente Embarque",
+      "sla_date": "2026-09-30T19:00:00",
+      "updated_event": "2026-09-24T10:07:59.097000",
+      "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_name": "20584761821-ADRIANA MARIA COSTA",
+      "source": "rptAWBStatus_20260924191700.xlsx",
+      "imported_at": "2026-09-24T19:17:56"
+    },
+    "02643308": {
+      "awb": "57702643308",
+      "status": "Pendente Embarque",
+      "sla_date": "2026-09-30T19:00:00",
+      "updated_event": "2026-09-24T12:10:17.083000",
+      "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_name": "33897568000106-ANGIOPREV SERVICOS MEDICOS LTDA",
+      "source": "rptAWBStatus_20260924191700.xlsx",
+      "imported_at": "2026-09-24T19:17:56"
+    },
+    "02649836": {
+      "awb": "57702649836",
+      "status": "Pendente Embarque",
+      "sla_date": "2026-09-30T18:00:00",
+      "updated_event": "2026-09-24T14:15:07.497000",
+      "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_name": "54336059000184-CLINICA DE CIRURGIA VASCULAR ENDOVASCULAR E UROLO",
+      "source": "rptAWBStatus_20260924191700.xlsx",
+      "imported_at": "2026-09-24T19:17:56"
+    },
+    "25729465": {
+      "awb": "57725729465",
+      "status": "Pendente Entrega",
+      "sla_date": "2026-09-29T23:00:00",
+      "updated_event": "2026-09-23T15:02:11.510000",
+      "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
+      "sender_name": "Tha amp Thi Farmacia de Manipulacao",
+      "recipient_name": "57988951653-TEREZINHA DA SILVA SACRAMENTO CAETANO",
+      "source": "rptAWBStatus_20260924191700.xlsx",
+      "imported_at": "2026-09-24T19:17:56"
     }
   },
   "imports": [
@@ -11500,6 +11570,15 @@
       "new": 5,
       "updated": 0,
       "new_value": 304.34000000000003
+    },
+    {
+      "file": "rptAWBStatus_20260924191700.xlsx",
+      "at": "2026-09-24T19:17:56",
+      "type": "STATUS",
+      "found": 5,
+      "new": 5,
+      "updated": 0,
+      "new_value": 0
     }
   ],
   "settings": {
