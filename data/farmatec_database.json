@@ -5347,9 +5347,9 @@
       "total": 69.6,
       "sla": "4",
       "source": "CommissionReportFranchise_20260925123539.xlsx",
-      "status": "Pendente Embarque",
+      "status": "Pendente Entrega",
       "delivery_forecast": "2026-09-30T18:00:00",
-      "status_source": "rptAWBStatus_20260924191700.xlsx"
+      "status_source": "rptAWBStatus_20260925130821.xlsx"
     },
     "57702453019": {
       "awb": "57702453019",
@@ -5363,7 +5363,7 @@
       "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T19:00:00",
-      "status_source": "rptAWBStatus_20260924191700.xlsx"
+      "status_source": "rptAWBStatus_20260925130821.xlsx"
     },
     "57725729465": {
       "awb": "57725729465",
@@ -5377,7 +5377,7 @@
       "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Entrega",
       "delivery_forecast": "2026-09-29T23:00:00",
-      "status_source": "rptAWBStatus_20260924191700.xlsx"
+      "status_source": "rptAWBStatus_20260925130821.xlsx"
     },
     "57702643308": {
       "awb": "57702643308",
@@ -5391,7 +5391,7 @@
       "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T19:00:00",
-      "status_source": "rptAWBStatus_20260924191700.xlsx"
+      "status_source": "rptAWBStatus_20260925130821.xlsx"
     },
     "57702649836": {
       "awb": "57702649836",
@@ -5405,7 +5405,7 @@
       "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T18:00:00",
-      "status_source": "rptAWBStatus_20260924191700.xlsx"
+      "status_source": "rptAWBStatus_20260925130821.xlsx"
     },
     "57702689706": {
       "awb": "57702689706",
@@ -11587,14 +11587,14 @@
     },
     "02384143": {
       "awb": "57702384143",
-      "status": "Pendente Embarque",
+      "status": "Pendente Entrega",
       "sla_date": "2026-09-30T18:00:00",
       "updated_event": "2026-09-24T12:48:38.643000",
       "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "62873134000174-PREVENCAO E PROSPERO CUIDADOS EM SAUDE LTDA",
-      "source": "rptAWBStatus_20260924191700.xlsx",
-      "imported_at": "2026-09-24T19:17:56"
+      "source": "rptAWBStatus_20260925130821.xlsx",
+      "imported_at": "2026-09-25T13:20:24"
     },
     "02453019": {
       "awb": "57702453019",
@@ -11604,8 +11604,8 @@
       "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "20584761821-ADRIANA MARIA COSTA",
-      "source": "rptAWBStatus_20260924191700.xlsx",
-      "imported_at": "2026-09-24T19:17:56"
+      "source": "rptAWBStatus_20260925130821.xlsx",
+      "imported_at": "2026-09-25T13:20:24"
     },
     "02643308": {
       "awb": "57702643308",
@@ -11615,8 +11615,8 @@
       "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "33897568000106-ANGIOPREV SERVICOS MEDICOS LTDA",
-      "source": "rptAWBStatus_20260924191700.xlsx",
-      "imported_at": "2026-09-24T19:17:56"
+      "source": "rptAWBStatus_20260925130821.xlsx",
+      "imported_at": "2026-09-25T13:20:24"
     },
     "02649836": {
       "awb": "57702649836",
@@ -11626,8 +11626,8 @@
       "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "54336059000184-CLINICA DE CIRURGIA VASCULAR ENDOVASCULAR E UROLO",
-      "source": "rptAWBStatus_20260924191700.xlsx",
-      "imported_at": "2026-09-24T19:17:56"
+      "source": "rptAWBStatus_20260925130821.xlsx",
+      "imported_at": "2026-09-25T13:20:24"
     },
     "25729465": {
       "awb": "57725729465",
@@ -11637,8 +11637,8 @@
       "shipper": "06177615000174-Tha amp Thi Farmacia de Manipulacao",
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "57988951653-TEREZINHA DA SILVA SACRAMENTO CAETANO",
-      "source": "rptAWBStatus_20260924191700.xlsx",
-      "imported_at": "2026-09-24T19:17:56"
+      "source": "rptAWBStatus_20260925130821.xlsx",
+      "imported_at": "2026-09-25T13:20:24"
     },
     "01950208": {
       "awb": "57701950208",
@@ -12006,6 +12006,15 @@
       "found": 391,
       "new": 0,
       "updated": 391,
+      "new_value": 0
+    },
+    {
+      "file": "rptAWBStatus_20260925130821.xlsx",
+      "at": "2026-09-25T13:20:24",
+      "type": "STATUS",
+      "found": 5,
+      "new": 5,
+      "updated": 0,
       "new_value": 0
     }
   ],
