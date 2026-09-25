@@ -5346,7 +5346,7 @@
       "recipient_name": "PREVENCAO E PROSPERO CUIDADOS EM SAUDE LTDA",
       "total": 69.6,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T18:00:00",
       "status_source": "rptAWBStatus_20260924191700.xlsx"
@@ -5360,7 +5360,7 @@
       "recipient_name": "ADRIANA MARIA COSTA",
       "total": 58.44,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T19:00:00",
       "status_source": "rptAWBStatus_20260924191700.xlsx"
@@ -5374,7 +5374,7 @@
       "recipient_name": "TEREZINHA DA SILVA SACRAMENTO CAETANO",
       "total": 56.72,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Entrega",
       "delivery_forecast": "2026-09-29T23:00:00",
       "status_source": "rptAWBStatus_20260924191700.xlsx"
@@ -5388,7 +5388,7 @@
       "recipient_name": "ANGIOPREV SERVICOS MEDICOS LTDA",
       "total": 62.11,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T19:00:00",
       "status_source": "rptAWBStatus_20260924191700.xlsx"
@@ -5402,7 +5402,7 @@
       "recipient_name": "CLINICA DE CIRURGIA VASCULAR ENDOVASCULAR E UROLO",
       "total": 57.47,
       "sla": "4",
-      "source": "CommissionReportFranchise_20260924191543.xlsx",
+      "source": "CommissionReportFranchise_20260925123539.xlsx",
       "status": "Pendente Embarque",
       "delivery_forecast": "2026-09-30T18:00:00",
       "status_source": "rptAWBStatus_20260924191700.xlsx"
@@ -11935,6 +11935,14 @@
       "new": 2,
       "updated": 62,
       "new_value": 158.43
+    },
+    {
+      "file": "CommissionReportFranchise_20260925123539.xlsx",
+      "at": "2026-09-25T12:52:11",
+      "found": 5,
+      "new": 0,
+      "updated": 5,
+      "new_value": 0
     }
   ],
   "settings": {
