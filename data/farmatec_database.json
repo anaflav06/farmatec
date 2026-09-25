@@ -11594,7 +11594,7 @@
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "62873134000174-PREVENCAO E PROSPERO CUIDADOS EM SAUDE LTDA",
       "source": "rptAWBStatus_20260925130821.xlsx",
-      "imported_at": "2026-09-25T13:20:24"
+      "imported_at": "2026-09-25T13:20:43"
     },
     "02453019": {
       "awb": "57702453019",
@@ -11605,7 +11605,7 @@
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "20584761821-ADRIANA MARIA COSTA",
       "source": "rptAWBStatus_20260925130821.xlsx",
-      "imported_at": "2026-09-25T13:20:24"
+      "imported_at": "2026-09-25T13:20:43"
     },
     "02643308": {
       "awb": "57702643308",
@@ -11616,7 +11616,7 @@
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "33897568000106-ANGIOPREV SERVICOS MEDICOS LTDA",
       "source": "rptAWBStatus_20260925130821.xlsx",
-      "imported_at": "2026-09-25T13:20:24"
+      "imported_at": "2026-09-25T13:20:43"
     },
     "02649836": {
       "awb": "57702649836",
@@ -11627,7 +11627,7 @@
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "54336059000184-CLINICA DE CIRURGIA VASCULAR ENDOVASCULAR E UROLO",
       "source": "rptAWBStatus_20260925130821.xlsx",
-      "imported_at": "2026-09-25T13:20:24"
+      "imported_at": "2026-09-25T13:20:43"
     },
     "25729465": {
       "awb": "57725729465",
@@ -11638,7 +11638,7 @@
       "sender_name": "Tha amp Thi Farmacia de Manipulacao",
       "recipient_name": "57988951653-TEREZINHA DA SILVA SACRAMENTO CAETANO",
       "source": "rptAWBStatus_20260925130821.xlsx",
-      "imported_at": "2026-09-25T13:20:24"
+      "imported_at": "2026-09-25T13:20:43"
     },
     "01950208": {
       "awb": "57701950208",
@@ -12011,6 +12011,15 @@
     {
       "file": "rptAWBStatus_20260925130821.xlsx",
       "at": "2026-09-25T13:20:24",
+      "type": "STATUS",
+      "found": 5,
+      "new": 5,
+      "updated": 0,
+      "new_value": 0
+    },
+    {
+      "file": "rptAWBStatus_20260925130821.xlsx",
+      "at": "2026-09-25T13:20:43",
       "type": "STATUS",
       "found": 5,
       "new": 5,
