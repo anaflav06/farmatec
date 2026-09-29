@@ -5556,6 +5556,17 @@
       "payment_type": "PIX - pagamento instantâneo",
       "control": "000181916705072",
       "created_at": "2026-09-22T16:20:56"
+    },
+    "c6bac4a0baae9bd8d4665e3ab4156735ec0497bf804ca32b9a43a41be1ce8c59": {
+      "file": "comprovante_Azul_25_09.pdf",
+      "value": 887.0,
+      "date": "25/09/2026",
+      "time": "16:51:43",
+      "transaction_id": "E60701190202609251950DY55FW7MEXB",
+      "authentication": "9565382ADAB598545CBC0CDC7C91BC4B9B4955BB",
+      "payment_type": "PIX - pagamento instantâneo",
+      "control": "000905819586829",
+      "created_at": "2026-09-29T14:26:38"
     }
   },
   "nf_map": {
